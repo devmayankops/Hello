@@ -4,3 +4,8 @@ mayank test gor git
 git init
 git remote add orgin ""
 git pull origin master
+git status
+git add ""
+fit commit
+git add -add
+git commit -a -master
